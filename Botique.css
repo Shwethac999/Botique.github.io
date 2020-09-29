@@ -1,0 +1,97 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+#a{
+    background-color: black;
+    margin:auto;
+
+}
+#img{
+    width: 100px;
+    height: 100px;
+}
+#con{
+  color: white;
+
+  margin-left: 100px;
+  vertical-align: 10px; 
+  font-size: 22px;
+  text-decoration: none;
+}
+#co{
+    color: white;
+  
+    margin-left: 25px;
+    vertical-align: 10px; 
+    font-size: 22px;
+    text-decoration: none;
+  }
+  #search{
+    color: black;
+    width: 160px;
+    height: 25px;
+    margin-left: 30px;
+    vertical-align: 10px; 
+    font-size: 22px;
+    
+
+  }
+#acc{
+    /* margin-top: 50px;
+    margin-right: 50px; */
+}
+
+#int{
+    width: 120px;
+}
+#bag{
+    color: white;
+    margin-left: 40px;
+}
+.slide{
+    height: 190px;
+    width: 100%;
+    background-color:#EDEBEE;
+}
+#sale{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    margin-right: 100px;
+    font-family: cursive;
+    
+}
+#col{
+    width: 500px;
+}
+
+#name{
+    font-size: 40px;
+    animation-name: anim;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+   
+}
+ 
+@keyframes anim{
+    
+    from{ color: skyblue;
+        
+    }
+    to{
+        color: deeppink;
+    }
+}
+#dress{
+    height: 700px;
+    width: 700px;
+}
+#dess{
+    width: 630px;
+    height: 700px;
+}
+#makeup{
+    margin-left: 230px;
+}
